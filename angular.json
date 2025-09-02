@@ -101,6 +101,12 @@
             ]
           }
         }
+      },
+      "i18n": {
+        "sourceLocale": "es-CL",
+        "locales": {
+          "en": "src/locale/messages.en.xlf"
+        }
       }
     }
   }
